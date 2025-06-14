@@ -1,0 +1,62 @@
+# ملفات Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ملفات IntelliSense وبيانات التكميل التلقائي
+*.sdf
+*.cache
+*.dbmdl
+*.VC.db
+*.VC.opendb
+*.ipch/
+*.iobj
+*.idb
+
+# مجلدات الإخراج
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+
+# ملفات البناء (Build)
+*.obj
+*.o
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.pch
+*.exe
+*.dll
+*.lib
+*.exp
+
+# ملفات مؤقتة أخرى
+*.tmp
+*.bak
+*.ncb
+*.aps
+*.res
+*.rsp
+
+# ملفات CMake (إن وُجدت)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ملفات بايثون أو سكربت مساعدة (لو موجودة)
+*.pyc
+__pycache__/
+
+# ملفات النظام
+Thumbs.db
+Desktop.ini
+
+# ملفات التتبع
+*.log
