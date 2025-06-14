@@ -15,7 +15,8 @@
 ---
 
 ## 🛠️ المتطلبات
-C++ compiler
+- C++ compiler
+- Command Lineا
 
 ---
 
